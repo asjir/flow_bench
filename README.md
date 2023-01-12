@@ -14,5 +14,5 @@ comparison of resulting gifs:
 ### viscous flow:
 ![viscousflow result](viscousflow.gif)
 ### waterlily:
-![waterlily result](waterlil.gif)
+![waterlily result](waterlily.gif)
 
