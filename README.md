@@ -13,7 +13,7 @@ the compilation time happens on every run
 
 comparison of resulting gifs:
 ### viscous flow:
-![viscousflow result](viscousflow.gif)
+![viscousflow result](viscous_flow.gif)
 ### waterlily:
 ![waterlily result](waterlily.gif)
 
